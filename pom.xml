@@ -8,6 +8,18 @@
 	<artifactId>stubs-assembly-descriptor</artifactId>
 	<version>1.0-SNAPSHOT</version>
 
+	<name>Stubs Assembly Descriptor</name>
+	<description>Assembly Descriptor for WireMock Stubs JAR</description>
+	<url>https://github.com/Codearte/stubs-assembly-descriptor</url>
+
+	<developers>
+		<developer>
+			<id>mariuszs</id>
+			<name>Mariusz Smykula</name>
+			<email>mariuszs@gmail.com</email>
+		</developer>
+	</developers>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>

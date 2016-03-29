@@ -1,7 +1,7 @@
- Assembly Descriptor for [WireMock](http://wiremock.org/) Stubs JAR
+Assembly Descriptor for [WireMock](http://wiremock.org/) Stubs JAR
 ==============
  
- WireMock [stubs](http://wiremock.org/stubbing.html) are JSON documents placed in a file with a `.json` extension under the `mappings` directory.
+WireMock [stubs](http://wiremock.org/stubbing.html) are JSON documents placed in a file with a `.json` extension under the `mappings` directory.
  
 ### Usage
 
