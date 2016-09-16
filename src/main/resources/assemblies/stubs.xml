@@ -10,7 +10,8 @@
 		<fileSet>
 			<directory>${project.build.directory}</directory>
 			<includes>
-				<include>mappings/**</include>
+				<include>**/*.json</include>
+				<include>**/*.groovy</include>
 			</includes>
 			<outputDirectory/>
 		</fileSet>
